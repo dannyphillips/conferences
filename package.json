@@ -1,19 +1,25 @@
 {
   "name": "conferences",
-  "version": "1.0.0",
-  "description": "An application for visualizing the available tech conferences for the year.",
-  "main": "index.js",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "react": "^16.7.0",
+    "react-dom": "^16.7.0",
+    "react-scripts": "2.1.3"
+  },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/dannyphillips/2019-conferences.git"
+  "eslintConfig": {
+    "extends": "react-app"
   },
-  "author": "Danny Phillips",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/dannyphillips/2019-conferences/issues"
-  },
-  "homepage": "https://github.com/dannyphillips/2019-conferences#readme"
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
 }
