@@ -6,6 +6,7 @@
     "dateStart": "03-18",
     "dateEnd": "03-20",
     "month": "March",
+    "audience": "FE Engineers",
     "submissionDeadline": "",
     "country": "USA",
     "tech": "javascript, ember"
@@ -17,6 +18,7 @@
     "dateStart": "02-07",
     "dateEnd": "02-08",
     "month": "February",
+    "audience": "FE Engineers",
     "submissionDeadline": "",
     "country": "USA",
     "tech": "javascript"
@@ -28,6 +30,7 @@
     "dateStart": "04-16",
     "dateEnd": "04-17",
     "month": "April",
+    "audience": "FE Engineers",
     "submissionDeadline": "",
     "country": "USA",
     "tech": "javascript"
@@ -39,6 +42,7 @@
     "dateStart": "05-06",
     "dateEnd": "05-08",
     "month": "May",
+    "audience": "",
     "submissionDeadline": "",
     "country": "USA"
   },
@@ -49,6 +53,7 @@
     "dateStart": "06-29",
     "dateEnd": "06-31",
     "month": "July",
+    "audience": "",
     "submissionDeadline": "",
     "country": "USA"
   },
@@ -59,6 +64,7 @@
     "dateStart": "08-26",
     "dateEnd": "08-28",
     "month": "August",
+    "audience": "",
     "submissionDeadline": "",
     "country": "USA"
   },
@@ -69,6 +75,7 @@
     "dateStart": "10-28",
     "dateEnd": "10-30",
     "month": "October",
+    "audience": "",
     "submissionDeadline": "",
     "country": "USA"
   },
@@ -79,6 +86,7 @@
     "dateStart": "04-02",
     "dateEnd": "04-03",
     "month": "April",
+    "audience": "",
     "submissionDeadline": "",
     "country": "USA"
   },
@@ -89,6 +97,7 @@
     "dateStart": "01-24",
     "dateEnd": "01-24",
     "month": "January",
+    "audience": "JS Devs",
     "submissionDeadline": "",
     "country": "USA",
     "tech": "javascript"
@@ -100,6 +109,7 @@
     "dateStart": "12-09",
     "dateEnd": "12-11",
     "month": "December",
+    "audience": "",
     "submissionDeadline": "",
     "country": "USA"
   },
@@ -110,6 +120,7 @@
     "dateStart": "03-30",
     "dateEnd": "03-31",
     "month": "March",
+    "audience": "FE Engineers",
     "submissionDeadline": "",
     "country": "USA",
     "tech": "javascript, react"
@@ -121,6 +132,7 @@
     "dateStart": "01-16",
     "dateEnd": "01-16",
     "month": "January",
+    "audience": "",
     "submissionDeadline": "",
     "country": "USA"
   },
@@ -131,6 +143,7 @@
     "dateStart": "03-25",
     "dateEnd": "03-27",
     "month": "March",
+    "audience": "FE Engineers",
     "submissionDeadline": "",
     "country": "USA",
     "tech": "javascript, vue"
@@ -142,6 +155,7 @@
     "dateStart": "08-12",
     "dateEnd": "08-14",
     "month": "August",
+    "audience": "FE Engineers",
     "submissionDeadline": "",
     "country": "USA",
     "tech": "javascript"
@@ -153,6 +167,7 @@
     "dateStart": "04-30",
     "dateEnd": "04-30",
     "month": "April",
+    "audience": "",
     "submissionDeadline": "",
     "country": "USA"
   },
@@ -163,6 +178,7 @@
     "dateStart": "08-21",
     "dateEnd": "08-23",
     "month": "August",
+    "audience": "",
     "submissionDeadline": "",
     "country": "USA"
   },
@@ -173,6 +189,7 @@
     "dateStart": "09-13",
     "dateEnd": "09-13",
     "month": "September",
+    "audience": "FE Engineers",
     "submissionDeadline": "",
     "country": "USA",
     "tech": "javascript, react"
@@ -184,6 +201,7 @@
     "dateStart": "11-18",
     "dateEnd": "11-20",
     "month": "November",
+    "audience": "BE Engineers",
     "submissionDeadline": "",
     "country": "USA",
     "tech": "ruby"
@@ -195,6 +213,7 @@
     "dateStart": "04-30",
     "dateEnd": "05-02",
     "month": "April",
+    "audience": "BE Engineers",
     "submissionDeadline": "",
     "country": "USA",
     "tech": "ruby, rails"
@@ -206,6 +225,7 @@
     "dateStart": "05-20",
     "dateEnd": "05-22",
     "month": "May",
+    "audience": "FE Engineers",
     "submissionDeadline": "",
     "country": "USA",
     "tech": "javascript, css, html, elm, design"
@@ -217,6 +237,7 @@
     "dateStart": "11-?",
     "dateEnd": "11-?",
     "month": "November?",
+    "audience": "Engineering",
     "submissionDeadline": "",
     "country": "USA",
     "tech": "javascript, graphql"
@@ -228,6 +249,7 @@
     "dateStart": "06-?",
     "dateEnd": "06-?",
     "month": "June?",
+    "audience": "",
     "submissionDeadline": "",
     "country": "USA",
     "tech": "iOS, swift"
@@ -239,6 +261,7 @@
     "dateStart": "TBD",
     "dateEnd": "TBD",
     "month": "TBD",
+    "audience": "",
     "submissionDeadline": "",
     "country": "USA",
     "tech": "android, kotlin, java"
