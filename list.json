@@ -1,0 +1,202 @@
+[
+  {
+    "title": "EmberConf",
+    "url": "https://emberconf.com/",
+    "where": "Portland, Oregon",
+    "dateFrom": "03-18",
+    "dateTo": "03-20",
+    "month": "March",
+    "submissionDeadline": "",
+    "country": "USA"
+  },
+  {
+    "title": "JS Conf Hawaii",
+    "url": "https://www.jsconfhi.com/",
+    "where": "Hawaii",
+    "dateFrom": "02-07",
+    "dateTo": "02-08",
+    "month": "February",
+    "submissionDeadline": "",
+    "country": "USA"
+  },
+  {
+    "title": "SmashingConf San Fran",
+    "url": "https://www.smashingconf.com/sf-2019/",
+    "where": "San Francisco",
+    "dateFrom": "04-16",
+    "dateTo": "04-17",
+    "month": "April",
+    "submissionDeadline": "",
+    "country": "USA"
+  },
+  {
+    "title": "AEA Boston",
+    "url": "https://aneventapart.com/event/boston-2019",
+    "where": "Boston",
+    "dateFrom": "05-06",
+    "dateTo": "05-08",
+    "month": "May",
+    "submissionDeadline": "",
+    "country": "USA"
+  },
+  {
+    "title": "AEA Washington D.C.",
+    "url": "https://aneventapart.com/event/washington-dc-2019",
+    "where": "Washington D.C.",
+    "dateFrom": "06-29",
+    "dateTo": "06-31",
+    "month": "July",
+    "submissionDeadline": "",
+    "country": "USA"
+  },
+  {
+    "title": "AEA Chicago",
+    "url": "https://aneventapart.com/event/chicago-2019",
+    "where": "Chicago",
+    "dateFrom": "08-26",
+    "dateTo": "08-28",
+    "month": "August",
+    "submissionDeadline": "",
+    "country": "USA"
+  },
+  {
+    "title": "AEA Denver",
+    "url": "https://aneventapart.com/event/denver-2019",
+    "where": "Denver",
+    "dateFrom": "10-28",
+    "dateTo": "10-30",
+    "month": "October",
+    "submissionDeadline": "",
+    "country": "USA"
+  },
+  {
+    "title": "Perf Matters",
+    "url": "https://perfmattersconf.com/",
+    "where": "Redwood City, CA",
+    "dateFrom": "04-02",
+    "dateTo": "04-03",
+    "month": "April",
+    "submissionDeadline": "",
+    "country": "USA"
+  },
+  {
+    "title": "Forward JS",
+    "url": "https://forwardjs.com/",
+    "where": "San Francisco, CA",
+    "dateFrom": "01-24",
+    "dateTo": "01-24",
+    "month": "January",
+    "submissionDeadline": "",
+    "country": "USA"
+  },
+  {
+    "title": "Longhorn PHP",
+    "url": "https://longhornphp.com/",
+    "where": "San Francisco, CA",
+    "dateFrom": "05-02",
+    "dateTo": "05-04",
+    "month": "May",
+    "submissionDeadline": "2018-12-15",
+    "country": "USA"
+  },
+  {
+    "title": "AEA San Francisco",
+    "url": "https://aneventapart.com/event/san-francisco-2019",
+    "where": "San Francisco",
+    "dateFrom": "12-09",
+    "dateTo": "12-11",
+    "month": "December",
+    "submissionDeadline": "",
+    "country": "USA"
+  },
+  {
+    "title": "Reactathon",
+    "url": "https://www.reactathon.com/",
+    "where": "San Francisco, CA",
+    "dateFrom": "03-30",
+    "dateTo": "03-31",
+    "month": "March",
+    "submissionDeadline": "",
+    "country": "USA"
+  },
+  {
+    "title": "Covalence",
+    "url": "http://www.covalenceconf.com/",
+    "where": "San Francisco, CA",
+    "dateFrom": "01-16",
+    "dateTo": "01-16",
+    "month": "January",
+    "submissionDeadline": "",
+    "country": "USA"
+  },
+  {
+    "title": "VueConf US",
+    "url": "http://us.vuejs.org/",
+    "where": "Tampa, FL",
+    "dateFrom": "03-25",
+    "dateTo": "03-27",
+    "month": "March",
+    "submissionDeadline": "",
+    "country": "USA"
+  },
+  {
+    "title": "VueConf US",
+    "url": "http://us.vuejs.org/",
+    "where": "Tampa, FL",
+    "dateFrom": "03-25",
+    "dateTo": "03-27",
+    "month": "March",
+    "submissionDeadline": "",
+    "country": "USA"
+  },
+  {
+    "title": "JSConf US",
+    "url": "https://2019.jsconf.us",
+    "where": "Carslbad, CA",
+    "dateFrom": "08-12",
+    "dateTo": "08-14",
+    "month": "August",
+    "submissionDeadline": "",
+    "country": "USA"
+  },
+  {
+    "title": "The Lead Developer",
+    "url": "https://newyork2019.theleaddeveloper.com",
+    "where": "New York, NY",
+    "dateFrom": "04-30",
+    "dateTo": "04-30",
+    "month": "April",
+    "submissionDeadline": "",
+    "country": "USA"
+  },
+  {
+    "title": "Eyeo Festival",
+    "url": "http://eyeofestival.com/",
+    "where": "Minneapolis, MN",
+    "dateFrom": "06-03",
+    "dateTo": "06-06",
+    "month": "June",
+    "submissionDeadline": "",
+    "country": "USA"
+  },
+  {
+    "title": "Abstractions",
+    "url": "https://abstractions.io/",
+    "where": "Pittsburgh, PA",
+    "dateFrom": "08-21",
+    "dateTo": "08-23",
+    "month": "August",
+    "submissionDeadline": "",
+    "country": "USA"
+  },
+  {
+    "title": "React Day",
+    "url": "https://reactnewyork.com/",
+    "where": "Pittsburgh, PA",
+    "dateFrom": "09-13",
+    "dateTo": "09-13",
+    "month": "September",
+    "submissionDeadline": "",
+    "country": "USA"
+  }
+]
