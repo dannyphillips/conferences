@@ -25,17 +25,13 @@ export class Table extends React.Component {
                   accessor: "title"
                 },
                 {
-                  Header: "Description",
-                  id: "description"
+                  Header: "Tech",
+                  id: "tech"
                 },
                 {
                   Header: "Audience",
                   id: "audience"
                 },
-                {
-                  Header: "Tech",
-                  id: "tech"
-                }
 
               ]
             },
@@ -62,6 +58,15 @@ export class Table extends React.Component {
                 {
                   Header: "Location",
                   accessor: "location"
+                }
+              ]
+            },
+            {
+              Header: "Info",
+              columns: [
+                {
+                  Header: "Description",
+                  id: "description"
                 }
               ]
             }

@@ -7,7 +7,8 @@
     "dateEnd": "03-20",
     "month": "March",
     "submissionDeadline": "",
-    "country": "USA"
+    "country": "USA",
+    "tech": "javascript, ember"
   },
   {
     "title": "JS Conf Hawaii",
@@ -17,7 +18,8 @@
     "dateEnd": "02-08",
     "month": "February",
     "submissionDeadline": "",
-    "country": "USA"
+    "country": "USA",
+    "tech": "javascript"
   },
   {
     "title": "SmashingConf San Fran",
@@ -27,7 +29,8 @@
     "dateEnd": "04-17",
     "month": "April",
     "submissionDeadline": "",
-    "country": "USA"
+    "country": "USA",
+    "tech": "javascript"
   },
   {
     "title": "AEA Boston",
@@ -87,17 +90,8 @@
     "dateEnd": "01-24",
     "month": "January",
     "submissionDeadline": "",
-    "country": "USA"
-  },
-  {
-    "title": "Longhorn PHP",
-    "url": "https://longhornphp.com/",
-    "location": "San Francisco, CA",
-    "dateStart": "05-02",
-    "dateEnd": "05-04",
-    "month": "May",
-    "submissionDeadline": "2018-12-15",
-    "country": "USA"
+    "country": "USA",
+    "tech": "javascript"
   },
   {
     "title": "AEA San Francisco",
@@ -117,7 +111,8 @@
     "dateEnd": "03-31",
     "month": "March",
     "submissionDeadline": "",
-    "country": "USA"
+    "country": "USA",
+    "tech": "javascript, react"
   },
   {
     "title": "Covalence",
@@ -137,17 +132,8 @@
     "dateEnd": "03-27",
     "month": "March",
     "submissionDeadline": "",
-    "country": "USA"
-  },
-  {
-    "title": "VueConf US",
-    "url": "http://us.vuejs.org/",
-    "location": "Tampa, FL",
-    "dateStart": "03-25",
-    "dateEnd": "03-27",
-    "month": "March",
-    "submissionDeadline": "",
-    "country": "USA"
+    "country": "USA",
+    "tech": "javascript, vue"
   },
   {
     "title": "JSConf US",
@@ -157,7 +143,8 @@
     "dateEnd": "08-14",
     "month": "August",
     "submissionDeadline": "",
-    "country": "USA"
+    "country": "USA",
+    "tech": "javascript"
   },
   {
     "title": "The Lead Developer",
@@ -166,16 +153,6 @@
     "dateStart": "04-30",
     "dateEnd": "04-30",
     "month": "April",
-    "submissionDeadline": "",
-    "country": "USA"
-  },
-  {
-    "title": "Eyeo Festival",
-    "url": "http://eyeofestival.com/",
-    "location": "Minneapolis, MN",
-    "dateStart": "06-03",
-    "dateEnd": "06-06",
-    "month": "June",
     "submissionDeadline": "",
     "country": "USA"
   },
@@ -197,6 +174,7 @@
     "dateEnd": "09-13",
     "month": "September",
     "submissionDeadline": "",
-    "country": "USA"
+    "country": "USA",
+    "tech": "javascript, react"
   }
 ]
