@@ -4,15 +4,15 @@ self.__precacheManifest = [
     "url": "/conferences/static/js/runtime~main.c2c8dd5c.js"
   },
   {
-    "revision": "6ef87f2df186db660583",
-    "url": "/conferences/static/js/main.6ef87f2d.chunk.js"
+    "revision": "266dc4e262484c12b757",
+    "url": "/conferences/static/js/main.266dc4e2.chunk.js"
   },
   {
     "revision": "f5141bd73a6b0e7673cd",
     "url": "/conferences/static/js/1.f5141bd7.chunk.js"
   },
   {
-    "revision": "6ef87f2df186db660583",
+    "revision": "266dc4e262484c12b757",
     "url": "/conferences/static/css/main.8fac6fca.chunk.css"
   },
   {
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/conferences/static/css/1.ba3ac5b3.chunk.css"
   },
   {
-    "revision": "b43d27376b5187057e8d0349ab578fe6",
+    "revision": "b57d01a20cc84d29267a1927778527d8",
     "url": "/conferences/index.html"
   }
 ];
