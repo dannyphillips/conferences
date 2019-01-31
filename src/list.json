@@ -176,5 +176,72 @@
     "submissionDeadline": "",
     "country": "USA",
     "tech": "javascript, react"
+  },
+  {
+    "title": "RubyConf",
+    "url": "https://reactnewyork.com/",
+    "location": "Nashville, TN",
+    "dateStart": "11-18",
+    "dateEnd": "11-20",
+    "month": "November",
+    "submissionDeadline": "",
+    "country": "USA",
+    "tech": "ruby"
+  },
+  {
+    "title": "RailsConf",
+    "url": "https://reactnewyork.com/",
+    "location": "Minneapolis, MN",
+    "dateStart": "04-30",
+    "dateEnd": "05-02",
+    "month": "April",
+    "submissionDeadline": "",
+    "country": "USA",
+    "tech": "ruby, rails"
+  },
+  {
+    "title": "FEDC",
+    "url": "https://reactnewyork.com/",
+    "location": "Palm Beach, FL",
+    "dateStart": "05-20",
+    "dateEnd": "05-22",
+    "month": "May",
+    "submissionDeadline": "",
+    "country": "USA",
+    "tech": "javascript, css, html, elm, design"
+  },
+  {
+    "title": "GraphQL Summit",
+    "url": "https://reactnewyork.com/",
+    "location": "San Francisco, CA",
+    "dateStart": "11-?",
+    "dateEnd": "11-?",
+    "month": "November?",
+    "submissionDeadline": "",
+    "country": "USA",
+    "tech": "javascript, graphql"
+  },
+  {
+    "title": "WWDC",
+    "url": "https://reactnewyork.com/",
+    "location": "San Francisco, CA",
+    "dateStart": "06-?",
+    "dateEnd": "06-?",
+    "month": "June?",
+    "submissionDeadline": "",
+    "country": "USA",
+    "tech": "iOS, swift"
+  },
+  {
+    "title": "Google I/O",
+    "url": "https://reactnewyork.com/",
+    "location": "San Francisco, CA",
+    "dateStart": "TBD",
+    "dateEnd": "TBD",
+    "month": "TBD",
+    "submissionDeadline": "",
+    "country": "USA",
+    "tech": "android, kotlin, java"
   }
+
 ]
