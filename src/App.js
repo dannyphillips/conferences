@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import './App.css';
 import { Table } from './Table';
+import { Map } from './Map';
 
 class App extends Component {
   render() {
@@ -8,7 +9,8 @@ class App extends Component {
       <div className="App">
         <header className="App-header">
         </header>
-        <Table />
+        {/* <Table /> */}
+        <Map />
       </div>
     );
   }
