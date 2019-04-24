@@ -8,7 +8,7 @@
     "react-dom": "16.7.0",
     "react-map-gl": "^4.0.10",
     "react-scripts": "2.1.3",
-    "react-table": "6.9.0"
+    "react-table": "6.10.0"
   },
   "homepage": "http://dannyphillips.github.io/conferences",
   "scripts": {
