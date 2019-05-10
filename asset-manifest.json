@@ -1,15 +1,17 @@
 {
-  "main.css": "/conferences/static/css/main.691a26a9.chunk.css",
-  "main.js": "/conferences/static/js/main.116bcb3c.chunk.js",
-  "main.js.map": "/conferences/static/js/main.116bcb3c.chunk.js.map",
-  "static/css/1.ce57c8bb.chunk.css": "/conferences/static/css/1.ce57c8bb.chunk.css",
-  "static/js/1.50d3f149.chunk.js": "/conferences/static/js/1.50d3f149.chunk.js",
-  "static/js/1.50d3f149.chunk.js.map": "/conferences/static/js/1.50d3f149.chunk.js.map",
-  "runtime~main.js": "/conferences/static/js/runtime~main.c2c8dd5c.js",
-  "runtime~main.js.map": "/conferences/static/js/runtime~main.c2c8dd5c.js.map",
-  "static/css/1.ce57c8bb.chunk.css.map": "/conferences/static/css/1.ce57c8bb.chunk.css.map",
-  "static/css/main.691a26a9.chunk.css.map": "/conferences/static/css/main.691a26a9.chunk.css.map",
-  "index.html": "/conferences/index.html",
-  "precache-manifest.f8d373565482314ad2be9a2dae69ea6e.js": "/conferences/precache-manifest.f8d373565482314ad2be9a2dae69ea6e.js",
-  "service-worker.js": "/conferences/service-worker.js"
+  "files": {
+    "main.css": "/conferences/static/css/main.139e7478.chunk.css",
+    "main.js": "/conferences/static/js/main.563fa667.chunk.js",
+    "main.js.map": "/conferences/static/js/main.563fa667.chunk.js.map",
+    "runtime~main.js": "/conferences/static/js/runtime~main.d7bbd2d4.js",
+    "runtime~main.js.map": "/conferences/static/js/runtime~main.d7bbd2d4.js.map",
+    "static/css/2.d4b275d9.chunk.css": "/conferences/static/css/2.d4b275d9.chunk.css",
+    "static/js/2.2eb6d603.chunk.js": "/conferences/static/js/2.2eb6d603.chunk.js",
+    "static/js/2.2eb6d603.chunk.js.map": "/conferences/static/js/2.2eb6d603.chunk.js.map",
+    "index.html": "/conferences/index.html",
+    "precache-manifest.7d7acfeb7629fbffd768a919d7e059f6.js": "/conferences/precache-manifest.7d7acfeb7629fbffd768a919d7e059f6.js",
+    "service-worker.js": "/conferences/service-worker.js",
+    "static/css/2.d4b275d9.chunk.css.map": "/conferences/static/css/2.d4b275d9.chunk.css.map",
+    "static/css/main.139e7478.chunk.css.map": "/conferences/static/css/main.139e7478.chunk.css.map"
+  }
 }
