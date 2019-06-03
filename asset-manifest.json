@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/conferences/static/css/main.139e7478.chunk.css",
-    "main.js": "/conferences/static/js/main.563fa667.chunk.js",
-    "main.js.map": "/conferences/static/js/main.563fa667.chunk.js.map",
+    "main.js": "/conferences/static/js/main.e8bb929d.chunk.js",
+    "main.js.map": "/conferences/static/js/main.e8bb929d.chunk.js.map",
     "runtime~main.js": "/conferences/static/js/runtime~main.d7bbd2d4.js",
     "runtime~main.js.map": "/conferences/static/js/runtime~main.d7bbd2d4.js.map",
     "static/css/2.d4b275d9.chunk.css": "/conferences/static/css/2.d4b275d9.chunk.css",
-    "static/js/2.cd2aee64.chunk.js": "/conferences/static/js/2.cd2aee64.chunk.js",
-    "static/js/2.cd2aee64.chunk.js.map": "/conferences/static/js/2.cd2aee64.chunk.js.map",
+    "static/js/2.1e0a93d1.chunk.js": "/conferences/static/js/2.1e0a93d1.chunk.js",
+    "static/js/2.1e0a93d1.chunk.js.map": "/conferences/static/js/2.1e0a93d1.chunk.js.map",
     "index.html": "/conferences/index.html",
-    "precache-manifest.fa4e4a9cedb73251ac43af28653d10cc.js": "/conferences/precache-manifest.fa4e4a9cedb73251ac43af28653d10cc.js",
+    "precache-manifest.ebfdf07a677717e4842f35db5c92b61f.js": "/conferences/precache-manifest.ebfdf07a677717e4842f35db5c92b61f.js",
     "service-worker.js": "/conferences/service-worker.js",
     "static/css/2.d4b275d9.chunk.css.map": "/conferences/static/css/2.d4b275d9.chunk.css.map",
     "static/css/main.139e7478.chunk.css.map": "/conferences/static/css/main.139e7478.chunk.css.map"
