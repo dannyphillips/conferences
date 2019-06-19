@@ -15,6 +15,6 @@ jobs:
       - run:
           name: Setup Dependencies
           command: yarn install
-      - run: # run tests
+      - run:
           name: Deploy
           command: yarn run deploy
