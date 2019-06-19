@@ -183,6 +183,18 @@
     "country": "USA"
   },
   {
+    "title": "Strange Loop",
+    "url": "https://thestrangeloop.com/",
+    "location": "St. Louis, MO",
+    "dateStart": "09-13",
+    "dateEnd": "09-14",
+    "month": "September",
+    "audience": "",
+    "submissionDeadline": "",
+    "tech": "javascript, react, elm",
+    "country": "USA"
+  },
+  {
     "title": "React Day",
     "url": "https://reactnewyork.com/",
     "location": "Pittsburgh, PA",
@@ -231,12 +243,24 @@
     "tech": "javascript, css, html, elm, design"
   },
   {
+    "title": "Elm Conf",
+    "url": "https://2019.elm-conf.com/",
+    "location": "St. Louis, MS",
+    "dateStart": "09-12",
+    "dateEnd": "09-12",
+    "month": "September",
+    "audience": "FE Engineers",
+    "submissionDeadline": "",
+    "country": "USA",
+    "tech": "javascript, css, html, elm, design"
+  },
+  {
     "title": "GraphQL Summit",
     "url": "https://reactnewyork.com/",
     "location": "San Francisco, CA",
-    "dateStart": "11-?",
-    "dateEnd": "11-?",
-    "month": "November?",
+    "dateStart": "10-29",
+    "dateEnd": "10-31",
+    "month": "October",
     "audience": "Engineering",
     "submissionDeadline": "",
     "country": "USA",
@@ -258,13 +282,12 @@
     "title": "Google I/O",
     "url": "https://reactnewyork.com/",
     "location": "San Francisco, CA",
-    "dateStart": "TBD",
-    "dateEnd": "TBD",
-    "month": "TBD",
+    "dateStart": "05-07",
+    "dateEnd": "05-09",
+    "month": "May",
     "audience": "",
     "submissionDeadline": "",
     "country": "USA",
     "tech": "android, kotlin, java"
   }
-
 ]
