@@ -8138,7 +8138,7 @@ react-is@^16.8.1, react-is@^16.8.4:
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-16.8.6.tgz#5bbc1e2d29141c9fbdfed456343fe2bc430a6a16"
   integrity sha512-aUk3bHfZ2bRSVFFbbeVS4i+lNPZr3/WM5jT2J5omUVV1zzcs1nAaf3l51ctA5FFvCRbhrH0bdAsRRQddFJZPtA==
 
-react-map-gl@^5.0.3:
+react-map-gl@5.0.3:
   version "5.0.3"
   resolved "https://registry.yarnpkg.com/react-map-gl/-/react-map-gl-5.0.3.tgz#d48279da5f9c7ac9e674388abe3d40b32206408b"
   integrity sha512-lvnSId2IQ8GQmOb97MSNFECiH39uq8nYn86WVLN0NtGmlalXDGyMlXi6pqnWE45mGqfY3nuu3cgh+J6ekMze7w==
