@@ -778,17 +778,10 @@
     "@babel/helper-plugin-utils" "^7.0.0"
     "@babel/plugin-transform-typescript" "^7.3.2"
 
-"@babel/runtime@7.5.5", "@babel/runtime@^7.4.5":
+"@babel/runtime@7.5.5", "@babel/runtime@^7.0.0", "@babel/runtime@^7.3.4", "@babel/runtime@^7.4.2", "@babel/runtime@^7.4.5":
   version "7.5.5"
   resolved "https://registry.yarnpkg.com/@babel/runtime/-/runtime-7.5.5.tgz#74fba56d35efbeca444091c7850ccd494fd2f132"
   integrity sha512-28QvEGyQyNkB0/m2B4FU7IEZGK2NUrcMtT6BZEFALTguLk+AUT6ofsHtPk5QyjAdUkpMJ+/Em+quwz4HOt30AQ==
-  dependencies:
-    regenerator-runtime "^0.13.2"
-
-"@babel/runtime@^7.0.0", "@babel/runtime@^7.3.4", "@babel/runtime@^7.4.2":
-  version "7.4.4"
-  resolved "https://registry.yarnpkg.com/@babel/runtime/-/runtime-7.4.4.tgz#dc2e34982eb236803aa27a07fea6857af1b9171d"
-  integrity sha512-w0+uT71b6Yi7i5SE0co4NioIpSYS6lLiXvCzWzGSKvpK5vdQtCbICHMj+gbAKAOtxiV6HsVh/MBdaF9EQ6faSg==
   dependencies:
     regenerator-runtime "^0.13.2"
 
@@ -8259,10 +8252,10 @@ react-is@^16.8.1, react-is@^16.8.4:
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-16.8.6.tgz#5bbc1e2d29141c9fbdfed456343fe2bc430a6a16"
   integrity sha512-aUk3bHfZ2bRSVFFbbeVS4i+lNPZr3/WM5jT2J5omUVV1zzcs1nAaf3l51ctA5FFvCRbhrH0bdAsRRQddFJZPtA==
 
-react-map-gl@5.0.8:
-  version "5.0.8"
-  resolved "https://registry.yarnpkg.com/react-map-gl/-/react-map-gl-5.0.8.tgz#9303357d1b0bc430aa65df190995863c15bdff8d"
-  integrity sha512-dpplvRUBY0CYRgOVYMqBqkLVPMdQaCm7xUJeKsFErCbaPLnl5Mlxzsn1/TP14mj8ujyabdZ3zqzAF76H5g1chQ==
+react-map-gl@5.0.9:
+  version "5.0.9"
+  resolved "https://registry.yarnpkg.com/react-map-gl/-/react-map-gl-5.0.9.tgz#ad582eed5fdc944dff64ace26a73888432956342"
+  integrity sha512-EBqrQtwDivHg5whBSTQTUeYc3Ck1WJ7psgm8NJ6dOT5e/WwreeHs8Z252t2YWYXozdHNa2sehW4Ii0p9I/M0Gg==
   dependencies:
     "@babel/runtime" "^7.0.0"
     mapbox-gl "^1.0.0"
