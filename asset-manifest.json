@@ -6,10 +6,10 @@
     "runtime-main.js": "/conferences/static/js/runtime-main.9c66cf88.js",
     "runtime-main.js.map": "/conferences/static/js/runtime-main.9c66cf88.js.map",
     "static/css/2.11f871ab.chunk.css": "/conferences/static/css/2.11f871ab.chunk.css",
-    "static/js/2.0050ec68.chunk.js": "/conferences/static/js/2.0050ec68.chunk.js",
-    "static/js/2.0050ec68.chunk.js.map": "/conferences/static/js/2.0050ec68.chunk.js.map",
+    "static/js/2.4efd1f52.chunk.js": "/conferences/static/js/2.4efd1f52.chunk.js",
+    "static/js/2.4efd1f52.chunk.js.map": "/conferences/static/js/2.4efd1f52.chunk.js.map",
     "index.html": "/conferences/index.html",
-    "precache-manifest.3e8fe0758e09b4e3f15b2717afdffde5.js": "/conferences/precache-manifest.3e8fe0758e09b4e3f15b2717afdffde5.js",
+    "precache-manifest.b1c25181fd8397f83e0c5b43e9d0f41b.js": "/conferences/precache-manifest.b1c25181fd8397f83e0c5b43e9d0f41b.js",
     "service-worker.js": "/conferences/service-worker.js",
     "static/css/2.11f871ab.chunk.css.map": "/conferences/static/css/2.11f871ab.chunk.css.map",
     "static/css/main.139e7478.chunk.css.map": "/conferences/static/css/main.139e7478.chunk.css.map"
@@ -17,7 +17,7 @@
   "entrypoints": [
     "static/js/runtime-main.9c66cf88.js",
     "static/css/2.11f871ab.chunk.css",
-    "static/js/2.0050ec68.chunk.js",
+    "static/js/2.4efd1f52.chunk.js",
     "static/css/main.139e7478.chunk.css",
     "static/js/main.ae800bcc.chunk.js"
   ]
