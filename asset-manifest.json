@@ -1,25 +1,24 @@
 {
   "files": {
-    "main.css": "/conferences/static/css/main.b3f39035.chunk.css",
-    "main.js": "/conferences/static/js/main.ff6af74c.chunk.js",
-    "main.js.map": "/conferences/static/js/main.ff6af74c.chunk.js.map",
-    "runtime-main.js": "/conferences/static/js/runtime-main.df7b20b6.js",
-    "runtime-main.js.map": "/conferences/static/js/runtime-main.df7b20b6.js.map",
-    "static/css/2.2f78222f.chunk.css": "/conferences/static/css/2.2f78222f.chunk.css",
-    "static/js/2.e76a0e4a.chunk.js": "/conferences/static/js/2.e76a0e4a.chunk.js",
-    "static/js/2.e76a0e4a.chunk.js.map": "/conferences/static/js/2.e76a0e4a.chunk.js.map",
+    "main.css": "/conferences/static/css/main.139e7478.chunk.css",
+    "main.js": "/conferences/static/js/main.b9cb7296.chunk.js",
+    "main.js.map": "/conferences/static/js/main.b9cb7296.chunk.js.map",
+    "runtime-main.js": "/conferences/static/js/runtime-main.9c66cf88.js",
+    "runtime-main.js.map": "/conferences/static/js/runtime-main.9c66cf88.js.map",
+    "static/css/2.11f871ab.chunk.css": "/conferences/static/css/2.11f871ab.chunk.css",
+    "static/js/2.6ecf261f.chunk.js": "/conferences/static/js/2.6ecf261f.chunk.js",
+    "static/js/2.6ecf261f.chunk.js.map": "/conferences/static/js/2.6ecf261f.chunk.js.map",
     "index.html": "/conferences/index.html",
-    "precache-manifest.bd1b5181aff79c84815d1ca64f7abb6e.js": "/conferences/precache-manifest.bd1b5181aff79c84815d1ca64f7abb6e.js",
+    "precache-manifest.214cd8ff420b70f3d02600890ee8da67.js": "/conferences/precache-manifest.214cd8ff420b70f3d02600890ee8da67.js",
     "service-worker.js": "/conferences/service-worker.js",
-    "static/css/2.2f78222f.chunk.css.map": "/conferences/static/css/2.2f78222f.chunk.css.map",
-    "static/css/main.b3f39035.chunk.css.map": "/conferences/static/css/main.b3f39035.chunk.css.map",
-    "static/js/2.e76a0e4a.chunk.js.LICENSE": "/conferences/static/js/2.e76a0e4a.chunk.js.LICENSE"
+    "static/css/2.11f871ab.chunk.css.map": "/conferences/static/css/2.11f871ab.chunk.css.map",
+    "static/css/main.139e7478.chunk.css.map": "/conferences/static/css/main.139e7478.chunk.css.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.df7b20b6.js",
-    "static/css/2.2f78222f.chunk.css",
-    "static/js/2.e76a0e4a.chunk.js",
-    "static/css/main.b3f39035.chunk.css",
-    "static/js/main.ff6af74c.chunk.js"
+    "static/js/runtime-main.9c66cf88.js",
+    "static/css/2.11f871ab.chunk.css",
+    "static/js/2.6ecf261f.chunk.js",
+    "static/css/main.139e7478.chunk.css",
+    "static/js/main.b9cb7296.chunk.js"
   ]
 }
