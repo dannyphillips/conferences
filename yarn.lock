@@ -9482,10 +9482,10 @@ react-is@^16.8.1, react-is@^16.8.4:
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-16.8.6.tgz#5bbc1e2d29141c9fbdfed456343fe2bc430a6a16"
   integrity sha512-aUk3bHfZ2bRSVFFbbeVS4i+lNPZr3/WM5jT2J5omUVV1zzcs1nAaf3l51ctA5FFvCRbhrH0bdAsRRQddFJZPtA==
 
-react-map-gl@5.1.4:
-  version "5.1.4"
-  resolved "https://registry.yarnpkg.com/react-map-gl/-/react-map-gl-5.1.4.tgz#b9bb387c8fd2ccaaeb4f3ff208865d6b11c120eb"
-  integrity sha512-h4fovqiY8Pe/bLyRp5HyaR4LT36qysI3FLby0TfnJS1PkPW45sYGxPFkIhYvJ2bs6DZzQ3fywnNAl/RyAQiS1Q==
+react-map-gl@5.1.5:
+  version "5.1.5"
+  resolved "https://registry.yarnpkg.com/react-map-gl/-/react-map-gl-5.1.5.tgz#901c5c77f0bc1e8117e3755746096abdb439685d"
+  integrity sha512-c8Wzk/HbV3u9IKbo6F4+9iMY591ehPM4+SIAHauG7TwcbWCB8itclnVbUKDIZqd2Yydp/y7uh7iXjPQCk7taAQ==
   dependencies:
     "@babel/runtime" "^7.0.0"
     mapbox-gl "^1.0.0"
