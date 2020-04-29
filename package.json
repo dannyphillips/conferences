@@ -3,7 +3,9 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@procore/core-react": "^8.11.0",
     "gh-pages": "2.1.1",
+    "node-sass": "^4.14.0",
     "react": "16.10.2",
     "react-dom": "16.10.2",
     "react-map-gl": "5.0.12",
