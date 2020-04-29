@@ -3,14 +3,14 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@procore/core-react": "^8.11.0",
-    "gh-pages": "2.1.1",
-    "node-sass": "^4.14.0",
-    "react": "16.10.2",
-    "react-dom": "16.10.2",
-    "react-map-gl": "5.0.12",
-    "react-scripts": "3.2.0",
-    "react-table": "6.10.3"
+    "@procore/core-react": "8.11.0",
+    "gh-pages": "2.2.0",
+    "node-sass": "4.14.0",
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
+    "react-map-gl": "5.2.5",
+    "react-scripts": "3.4.1",
+    "react-table": "6.11.5"
   },
   "homepage": "http://dannyphillips.github.io/conferences",
   "scripts": {
