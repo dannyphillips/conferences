@@ -1297,30 +1297,30 @@
   resolved "https://registry.yarnpkg.com/@nodelib/fs.stat/-/fs.stat-1.1.3.tgz#2b5a3ab3f918cca48a8c754c08168e3f03eba61b"
   integrity sha512-shAmDyaQC4H92APFoIaVDHCx5bStIocgvbwQyxPRrbUY20V1EYTbSDchWbuwlMG3V17cprZhA6+78JfB+3DTPw==
 
-"@procore/core-css@8.13.0":
-  version "8.13.0"
-  resolved "https://registry.yarnpkg.com/@procore/core-css/-/core-css-8.13.0.tgz#35732f2977809dc4f5ff6ddfdae3359e6261dcaf"
-  integrity sha512-FSsy7IEadbzhByw27FPRwpNH6hGiRZlr2WTIuIHWDsdd1SsHOdyOEyowVVM4JNKr428y7/0tFiPk+NxNmHpQXw==
+"@procore/core-css@8.14.0":
+  version "8.14.0"
+  resolved "https://registry.yarnpkg.com/@procore/core-css/-/core-css-8.14.0.tgz#e1b1424a9605d0178977b6bc427d368bf3a9ec01"
+  integrity sha512-BS8f904wPKl4h0LhYyylNaqEEoqvM/bRJUBOzWllB5RCOK+3Lc6nllaH5abh7pKN5XFHYcK3WHbUaurbTwdqLw==
   dependencies:
     flexboxgrid2 "7.2.1"
 
-"@procore/core-i18n-js@8.12.0":
-  version "8.12.0"
-  resolved "https://registry.yarnpkg.com/@procore/core-i18n-js/-/core-i18n-js-8.12.0.tgz#cbf6420a72df9293a04ba0d23bc0649c3daaf660"
-  integrity sha512-5Jpb6cDLKXPNRBNpSJoqln0FgWgfE0CvBgEx57oboeA8jvgm27ygckKR80Gp0bfJ5fvHPtjrUqVzUoW9u57ePA==
+"@procore/core-i18n-js@8.14.0":
+  version "8.14.0"
+  resolved "https://registry.yarnpkg.com/@procore/core-i18n-js/-/core-i18n-js-8.14.0.tgz#59e17cc3c984fa06bd184f620a7c078388c102a1"
+  integrity sha512-mHOgbf8Kp87wfvjk/3pC9is9I1ROTscSx81O02vC9kCXkmDQvR/MSy1VXT8FqIuqY5UUeVRL8MQsCFd2WdoMVw==
 
 "@procore/core-icons@8.12.0":
   version "8.12.0"
   resolved "https://registry.yarnpkg.com/@procore/core-icons/-/core-icons-8.12.0.tgz#b4d3e1b20f6f3875edc6273ecb5291c6d62feb36"
   integrity sha512-BQyOOyJb8rzpj+JHmIZZtsfUg4YZgoqAeFELMnMIvxCRTpA59gyhLwODLZHneERTQ0FSJ/MDYXzSojrAYso4YA==
 
-"@procore/core-react@8.13.0":
-  version "8.13.0"
-  resolved "https://registry.yarnpkg.com/@procore/core-react/-/core-react-8.13.0.tgz#05e2d898e3067de2f5461b0217ac14282878cdd2"
-  integrity sha512-meHNIpz7W3lL91+Z2gLJFyqQbvJ8RrXcre96FLILjUcGUbYqyQFbBpoOBRIeK0gZH6Yn0c7Sa3wivMLE8GBRXA==
+"@procore/core-react@8.14.0":
+  version "8.14.0"
+  resolved "https://registry.yarnpkg.com/@procore/core-react/-/core-react-8.14.0.tgz#a2b13a992f5b8f3abfeb08e052005061531ceed4"
+  integrity sha512-sWzkbZACHwXQ6hLKYWtnPxEDYrsyPdspFHdm8ZAcYdu5te70k8s9qe7QEYfQ5tMUwov+ViiDn8ZUU8AjViulaA==
   dependencies:
-    "@procore/core-css" "8.13.0"
-    "@procore/core-i18n-js" "8.12.0"
+    "@procore/core-css" "8.14.0"
+    "@procore/core-i18n-js" "8.14.0"
     "@procore/core-icons" "8.12.0"
     "@procore/event-journal" "0.4.2"
     "@tinymce/tinymce-react" "3.6.0"
