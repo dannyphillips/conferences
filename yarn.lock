@@ -1297,10 +1297,10 @@
   resolved "https://registry.yarnpkg.com/@nodelib/fs.stat/-/fs.stat-1.1.3.tgz#2b5a3ab3f918cca48a8c754c08168e3f03eba61b"
   integrity sha512-shAmDyaQC4H92APFoIaVDHCx5bStIocgvbwQyxPRrbUY20V1EYTbSDchWbuwlMG3V17cprZhA6+78JfB+3DTPw==
 
-"@procore/core-css@8.16.0":
-  version "8.16.0"
-  resolved "https://registry.yarnpkg.com/@procore/core-css/-/core-css-8.16.0.tgz#a9bc83dd40b7d0d8ab3ff980355c90fe92e3e782"
-  integrity sha512-VBEG5Q3DiVWp4zBL71uo/rIyuGAA6XlnWoQeKR4kNpyNf7WJ8lxxmgFWWTmqFlQWtreFKACZUQNkUbWNqhq36w==
+"@procore/core-css@8.17.0":
+  version "8.17.0"
+  resolved "https://registry.yarnpkg.com/@procore/core-css/-/core-css-8.17.0.tgz#073ea31b12bf0509223a0b169290b69260781a9a"
+  integrity sha512-xhHLH8bWD3o6S1YXAtuMvNhN+vkd7v8ZEGcjeS1i0p0hNmRPZMuyIwjeZb78l5y7R9xFjfKaecie7EutCYo4EQ==
   dependencies:
     flexboxgrid2 "7.2.1"
 
@@ -1309,19 +1309,19 @@
   resolved "https://registry.yarnpkg.com/@procore/core-i18n-js/-/core-i18n-js-8.14.0.tgz#59e17cc3c984fa06bd184f620a7c078388c102a1"
   integrity sha512-mHOgbf8Kp87wfvjk/3pC9is9I1ROTscSx81O02vC9kCXkmDQvR/MSy1VXT8FqIuqY5UUeVRL8MQsCFd2WdoMVw==
 
-"@procore/core-icons@8.16.0":
-  version "8.16.0"
-  resolved "https://registry.yarnpkg.com/@procore/core-icons/-/core-icons-8.16.0.tgz#cf3879124b2582e5fbf6b3267ad8cc240a54e24b"
-  integrity sha512-t3TpGgrvhWw23UD/uLsdT0DHnNRnHkIwV1qrojImjxqj6jQz4H09bpZuyK24Saji3qJrcX/RF6kIckM2MN/u/A==
+"@procore/core-icons@8.17.0":
+  version "8.17.0"
+  resolved "https://registry.yarnpkg.com/@procore/core-icons/-/core-icons-8.17.0.tgz#479c42adca53a0b807c6480a7d565045f0815ac1"
+  integrity sha512-T7xV5EPRAn/nTFivUrPADl5jgquXFNaU0MY6tDVDxF9OVryw3z0Jnz9HANo5eMugQKxa2xBZ19tPcw38sTE+lQ==
 
-"@procore/core-react@8.16.0":
-  version "8.16.0"
-  resolved "https://registry.yarnpkg.com/@procore/core-react/-/core-react-8.16.0.tgz#f234e016d30e0b384bbfa6d1bf3b8427d2a330f3"
-  integrity sha512-ZGXuLVo01/YC63p+vxHOHL+oE6r0RAlv++HFst5NGUBisdn4i/hTuO869KFme2MnMQHrhDiElJXsDmPb+g01QQ==
+"@procore/core-react@8.17.0":
+  version "8.17.0"
+  resolved "https://registry.yarnpkg.com/@procore/core-react/-/core-react-8.17.0.tgz#c53ba1c283b7c9b424ab244bf0b7a11259545335"
+  integrity sha512-m1D6AlBdF1xEnMK259ZNo7F/qQUclhW0zFhHt/xoYHMedVvE5WyEzB4Wkq/4RFk5j+2/IHr5RqKVVnhn1Obsmg==
   dependencies:
-    "@procore/core-css" "8.16.0"
+    "@procore/core-css" "8.17.0"
     "@procore/core-i18n-js" "8.14.0"
-    "@procore/core-icons" "8.16.0"
+    "@procore/core-icons" "8.17.0"
     "@procore/event-journal" "0.4.2"
     "@tinymce/tinymce-react" "3.6.0"
     classnames "2.2.6"
@@ -1329,8 +1329,9 @@
     formik "2.1.4"
     lodash.throttle "4.1.1"
     ramda "0.27.0"
-    react-dropzone "10.2.2"
+    react-dropzone "11.0.1"
     react-flexbox-grid "2.1.2"
+    react-window "1.8.5"
     resize-observer-polyfill "1.5.1"
     ulid "2.3.0"
 
@@ -6959,6 +6960,11 @@ mem@^4.0.0:
     mimic-fn "^2.0.0"
     p-is-promise "^2.0.0"
 
+"memoize-one@>=3.1.1 <6":
+  version "5.1.1"
+  resolved "https://registry.yarnpkg.com/memoize-one/-/memoize-one-5.1.1.tgz#047b6e3199b508eaec03504de71229b8eb1d75c0"
+  integrity sha512-HKeeBpWvqiVJD57ZUAsJNm71eHTykffzcLZVYWiVfQeI1rJtuEaS7hQiEpWfVVk18donPwJEcFKIkCmPJNOhHA==
+
 memory-fs@^0.4.1:
   version "0.4.1"
   resolved "https://registry.yarnpkg.com/memory-fs/-/memory-fs-0.4.1.tgz#3a9a20b8462523e447cfbc7e8bb80ed667bfc552"
@@ -9070,10 +9076,10 @@ react-dom@16.13.1:
     prop-types "^15.6.2"
     scheduler "^0.19.1"
 
-react-dropzone@10.2.2:
-  version "10.2.2"
-  resolved "https://registry.yarnpkg.com/react-dropzone/-/react-dropzone-10.2.2.tgz#67b4db7459589a42c3b891a82eaf9ade7650b815"
-  integrity sha512-U5EKckXVt6IrEyhMMsgmHQiWTGLudhajPPG77KFSvgsMqNEHSyGpqWvOMc5+DhEah/vH4E1n+J5weBNLd5VtyA==
+react-dropzone@11.0.1:
+  version "11.0.1"
+  resolved "https://registry.yarnpkg.com/react-dropzone/-/react-dropzone-11.0.1.tgz#c8b6a6ed02576e5365af2e2a3f3b31df31feb213"
+  integrity sha512-x/6wqRHaR8jsrNiu/boVMIPYuoxb83Vyfv77hO7/3ZRn8Pr+KH5onsCsB8MLBa3zdJl410C5FXPUINbu16XIzw==
   dependencies:
     attr-accept "^2.0.0"
     file-selector "^0.1.12"
@@ -9187,6 +9193,14 @@ react-virtualized-auto-sizer@^1.0.2:
   version "1.0.2"
   resolved "https://registry.yarnpkg.com/react-virtualized-auto-sizer/-/react-virtualized-auto-sizer-1.0.2.tgz#a61dd4f756458bbf63bd895a92379f9b70f803bd"
   integrity sha512-MYXhTY1BZpdJFjUovvYHVBmkq79szK/k7V3MO+36gJkWGkrXKtyr4vCPtpphaTLRAdDNoYEYFZWE8LjN+PIHNg==
+
+react-window@1.8.5:
+  version "1.8.5"
+  resolved "https://registry.yarnpkg.com/react-window/-/react-window-1.8.5.tgz#a56b39307e79979721021f5d06a67742ecca52d1"
+  integrity sha512-HeTwlNa37AFa8MDZFZOKcNEkuF2YflA0hpGPiTT9vR7OawEt+GZbfM6wqkBahD3D3pUjIabQYzsnY/BSJbgq6Q==
+  dependencies:
+    "@babel/runtime" "^7.0.0"
+    memoize-one ">=3.1.1 <6"
 
 react@16.13.1:
   version "16.13.1"
