@@ -1314,10 +1314,10 @@
   resolved "https://registry.yarnpkg.com/@procore/core-icons/-/core-icons-8.18.0.tgz#86f8d501b01a9b48f780816e8b5fd5f5deac9976"
   integrity sha512-e1aN8dm8pypr0ZvZW78dkXax4Vf/qMZ5P+FCtbQhWdW3joYJ+eTRaTcb1f91znGhV/IvxBYa7rjD16zkIEpwjA==
 
-"@procore/core-react@8.18.0":
-  version "8.18.0"
-  resolved "https://registry.yarnpkg.com/@procore/core-react/-/core-react-8.18.0.tgz#7bff5b3ee4053616a1b7e52bd11754663a2e5268"
-  integrity sha512-nz4KorMryc2cnTMUem4XEt7W1PfuqJ42ZIzTadEQx7qRLy6A0YDUj0CgPHd1XYG7fPpHfQyzJfQxopmZxcu7nA==
+"@procore/core-react@8.18.2":
+  version "8.18.2"
+  resolved "https://registry.yarnpkg.com/@procore/core-react/-/core-react-8.18.2.tgz#c924e0253cfa3173a136eeead1e2229ed38ed20a"
+  integrity sha512-Vqx/dYIpebhb0lIMOpq7CwqCrQwHjclm5xQKjyhbrh7DpdFK+xMvgZenHkh6uONKRKNkOtdQm1yvs7Nmwiobug==
   dependencies:
     "@procore/core-css" "8.18.0"
     "@procore/core-i18n-js" "8.14.0"
