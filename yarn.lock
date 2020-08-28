@@ -1297,10 +1297,10 @@
   resolved "https://registry.yarnpkg.com/@nodelib/fs.stat/-/fs.stat-1.1.3.tgz#2b5a3ab3f918cca48a8c754c08168e3f03eba61b"
   integrity sha512-shAmDyaQC4H92APFoIaVDHCx5bStIocgvbwQyxPRrbUY20V1EYTbSDchWbuwlMG3V17cprZhA6+78JfB+3DTPw==
 
-"@procore/core-css@8.21.0":
-  version "8.21.0"
-  resolved "https://registry.yarnpkg.com/@procore/core-css/-/core-css-8.21.0.tgz#7123fe449161f05f12532e53e228ac654d2b5c59"
-  integrity sha512-5FJ8JjecoxU1IMWKhvrLtPCj0M5sD+dw8YNjVFd2jGV4SbQqkvWyX24r4kLFBZB00XaG+QtsNBpiPzpFObP+Ag==
+"@procore/core-css@8.22.0":
+  version "8.22.0"
+  resolved "https://registry.yarnpkg.com/@procore/core-css/-/core-css-8.22.0.tgz#5b105f9639ab0bb1ee0e4a8168a6d018b4e95581"
+  integrity sha512-909+6dEV1cAoe7zjzXKz4Ht6q1tcRDEcz36dPJabKuNf/SeM1DlygiCeji1GPPwGArPhlAdkrB54+f2LnbVTkQ==
   dependencies:
     flexboxgrid2 "7.2.1"
 
@@ -1314,12 +1314,12 @@
   resolved "https://registry.yarnpkg.com/@procore/core-icons/-/core-icons-8.18.3.tgz#b093cd8e0d551f49b2b1eb29df7e085f706a7dd7"
   integrity sha512-6dVdUYBBRm/RXigDtPcFWNQIUalUSnazBdtzO52mW9GVeoBvx8VPr0/WwfD3ta1OFFO1qygonYGa8DLdUR2hbw==
 
-"@procore/core-react@8.21.0":
-  version "8.21.0"
-  resolved "https://registry.yarnpkg.com/@procore/core-react/-/core-react-8.21.0.tgz#10e8f0421dbee3be2528c55f417794ec61457acf"
-  integrity sha512-rjNdygsoRFvA7m1x90XuGHxkqd5byGCp65jb8bLZNPUbzrL1A7CF0MfK3sxFvJlUw7PX9fRXaDfAIOqag5w88g==
+"@procore/core-react@8.22.0":
+  version "8.22.0"
+  resolved "https://registry.yarnpkg.com/@procore/core-react/-/core-react-8.22.0.tgz#8feef7196da49fea7edef32f5ccca66a1283a5c8"
+  integrity sha512-DDNN/qcfmoEjWFRMAaztL3EWblz44iiYs01poYzUKHmpzeZxHhPvc1AVtoTXo2WzSbMkOAgg5ZJ552DTzgGMYQ==
   dependencies:
-    "@procore/core-css" "8.21.0"
+    "@procore/core-css" "8.22.0"
     "@procore/core-i18n-js" "8.21.0"
     "@procore/core-icons" "8.18.3"
     "@procore/event-journal" "0.4.2"
@@ -1327,6 +1327,7 @@
     classnames "2.2.6"
     date-fns "1.30.1"
     formik "2.1.5"
+    intersection-observer "0.11.0"
     lodash.throttle "4.1.1"
     ramda "0.27.0"
     react-dropzone "11.0.2"
@@ -5589,6 +5590,11 @@ internal-slot@^1.0.2:
     es-abstract "^1.17.0-next.1"
     has "^1.0.3"
     side-channel "^1.0.2"
+
+intersection-observer@0.11.0:
+  version "0.11.0"
+  resolved "https://registry.yarnpkg.com/intersection-observer/-/intersection-observer-0.11.0.tgz#f4ea067070326f68393ee161cc0a2ca4c0040c6f"
+  integrity sha512-KZArj2QVnmdud9zTpKf279m2bbGfG+4/kn16UU0NL3pTVl52ZHiJ9IRNSsnn6jaHrL9EGLFM5eWjTx2fz/+zoQ==
 
 invariant@^2.2.2, invariant@^2.2.4:
   version "2.2.4"
