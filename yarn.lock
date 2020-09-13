@@ -1046,6 +1046,34 @@
   resolved "https://registry.yarnpkg.com/@csstools/normalize.css/-/normalize.css-10.1.0.tgz#f0950bba18819512d42f7197e56c518aa491cf18"
   integrity sha512-ij4wRiunFfaJxjB0BdrYHIH8FxBJpOwNPhhAcunlmPdXudL1WQV1qoP9un6JsEBAgQH+7UXyyjh0g7jTxXK6tg==
 
+"@formatjs/intl-getcanonicallocales@1.2.7":
+  version "1.2.7"
+  resolved "https://registry.yarnpkg.com/@formatjs/intl-getcanonicallocales/-/intl-getcanonicallocales-1.2.7.tgz#7d96330c1e1d5d3ba93f10e3b9a875ac165c30d1"
+  integrity sha512-qrmHCMnUSlgus9O8e/jVYqe2l3jmVGVJUCMY0F9L222VQA+VA2O7VmV26ONsPMvO1BsYO2JyXNCMH3hNewIOhA==
+  dependencies:
+    cldr-core "36.0.0"
+
+"@formatjs/intl-numberformat@4.2.9":
+  version "4.2.9"
+  resolved "https://registry.yarnpkg.com/@formatjs/intl-numberformat/-/intl-numberformat-4.2.9.tgz#ed36f3c47e4e991ad36a4831c699123895ca136d"
+  integrity sha512-/z3aUGWKcM5p5tASB8OpVPkmUJxKbs/yB4ejBepzqdgO7pZ0CNBnHGGwaC6d54CpWuKGbmhF6ertRryhG8khpg==
+  dependencies:
+    "@formatjs/intl-utils" "^3.4.1"
+
+"@formatjs/intl-pluralrules@2.2.9":
+  version "2.2.9"
+  resolved "https://registry.yarnpkg.com/@formatjs/intl-pluralrules/-/intl-pluralrules-2.2.9.tgz#1005748ed584deadebcf69ffe6247152ad9bb52e"
+  integrity sha512-9lTDUf28xcnArTNPCyFQh4cLScewuiAAzXx3tmrc011F6LD3+ybkxTPzINxg7vyMdkeEtuEhmrcW7s+uqOc6jA==
+  dependencies:
+    "@formatjs/intl-utils" "^3.4.1"
+
+"@formatjs/intl-utils@^3.4.1":
+  version "3.8.4"
+  resolved "https://registry.yarnpkg.com/@formatjs/intl-utils/-/intl-utils-3.8.4.tgz#291baac91001db428fc3275c515a3e40fbe95945"
+  integrity sha512-j5C6NyfKevIxsfLK8KwO1C0vvP7k1+h4A9cFpc+cr6mEwCc1sPkr17dzh0Ke6k9U5pQccAQoXdcNBl3IYa4+ZQ==
+  dependencies:
+    emojis-list "^3.0.0"
+
 "@hapi/address@2.x.x":
   version "2.1.4"
   resolved "https://registry.yarnpkg.com/@hapi/address/-/address-2.1.4.tgz#5d67ed43f3fd41a69d4b9ff7b56e7c0d1d0a81e5"
@@ -1297,10 +1325,10 @@
   resolved "https://registry.yarnpkg.com/@nodelib/fs.stat/-/fs.stat-1.1.3.tgz#2b5a3ab3f918cca48a8c754c08168e3f03eba61b"
   integrity sha512-shAmDyaQC4H92APFoIaVDHCx5bStIocgvbwQyxPRrbUY20V1EYTbSDchWbuwlMG3V17cprZhA6+78JfB+3DTPw==
 
-"@procore/core-css@8.22.0":
-  version "8.22.0"
-  resolved "https://registry.yarnpkg.com/@procore/core-css/-/core-css-8.22.0.tgz#5b105f9639ab0bb1ee0e4a8168a6d018b4e95581"
-  integrity sha512-909+6dEV1cAoe7zjzXKz4Ht6q1tcRDEcz36dPJabKuNf/SeM1DlygiCeji1GPPwGArPhlAdkrB54+f2LnbVTkQ==
+"@procore/core-css@8.23.0":
+  version "8.23.0"
+  resolved "https://registry.yarnpkg.com/@procore/core-css/-/core-css-8.23.0.tgz#f8f2eea3808e06f8bb411050917abc6f74792eb8"
+  integrity sha512-JUOvptZm/Qjo75jqzSsQPnWR0szIjM30jwIp26xNpi9k90I8veR/hsuqRe+veUHowL70ruCQsSBWsWFyVinwGg==
   dependencies:
     flexboxgrid2 "7.2.1"
 
@@ -1314,12 +1342,15 @@
   resolved "https://registry.yarnpkg.com/@procore/core-icons/-/core-icons-8.18.3.tgz#b093cd8e0d551f49b2b1eb29df7e085f706a7dd7"
   integrity sha512-6dVdUYBBRm/RXigDtPcFWNQIUalUSnazBdtzO52mW9GVeoBvx8VPr0/WwfD3ta1OFFO1qygonYGa8DLdUR2hbw==
 
-"@procore/core-react@8.22.0":
-  version "8.22.0"
-  resolved "https://registry.yarnpkg.com/@procore/core-react/-/core-react-8.22.0.tgz#8feef7196da49fea7edef32f5ccca66a1283a5c8"
-  integrity sha512-DDNN/qcfmoEjWFRMAaztL3EWblz44iiYs01poYzUKHmpzeZxHhPvc1AVtoTXo2WzSbMkOAgg5ZJ552DTzgGMYQ==
+"@procore/core-react@8.23.0":
+  version "8.23.0"
+  resolved "https://registry.yarnpkg.com/@procore/core-react/-/core-react-8.23.0.tgz#1464aaa34e9495019c0e6e250475f3db8ff1b544"
+  integrity sha512-/86hIpPZ7VECofgQc6RJVTnLJgs3xkRS4Zp/jE15TMpgbB9VbOCiThy9tZhCGJoZ/oZsMxfv7L6LflXHwrL2NA==
   dependencies:
-    "@procore/core-css" "8.22.0"
+    "@formatjs/intl-getcanonicallocales" "1.2.7"
+    "@formatjs/intl-numberformat" "4.2.9"
+    "@formatjs/intl-pluralrules" "2.2.9"
+    "@procore/core-css" "8.23.0"
     "@procore/core-i18n-js" "8.21.0"
     "@procore/core-icons" "8.18.3"
     "@procore/event-journal" "0.4.2"
@@ -2905,6 +2936,11 @@ classnames@2.2.6, classnames@^2.2.5:
   version "2.2.6"
   resolved "https://registry.yarnpkg.com/classnames/-/classnames-2.2.6.tgz#43935bffdd291f326dad0a205309b38d00f650ce"
   integrity sha512-JR/iSQOSt+LQIWwrwEzJ9uk0xfN3mTVYMwt1Ir5mUcSN6pU+V4zQFFaJsclJbPuAUQH+yfWef6tm7l1quW3C8Q==
+
+cldr-core@36.0.0:
+  version "36.0.0"
+  resolved "https://registry.yarnpkg.com/cldr-core/-/cldr-core-36.0.0.tgz#1d2148ed6802411845baeeb21432d7bbfde7d4f7"
+  integrity sha512-QLnAjt20rZe38c8h8OJ9jPND+O4o5O8Nw0TK/P3KpNn1cmOhMu0rk6Kc3ap96c5OStQ9gAngs9+Be2sum26NOw==
 
 clean-css@^4.2.3:
   version "4.2.3"
