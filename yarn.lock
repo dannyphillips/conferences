@@ -1337,22 +1337,22 @@
   resolved "https://registry.yarnpkg.com/@procore/core-i18n-js/-/core-i18n-js-8.21.0.tgz#c8e6c5ffa663685cf2723e658815606785dff92c"
   integrity sha512-DPLPZ9rp/wfuMHuZZ1FlP2qee6763egAcPClZKSuAW6VJoKgoKKfQ2y8Hx4pgii5jYgPGNyWS9uVTFS+WJD3+w==
 
-"@procore/core-icons@8.18.3":
-  version "8.18.3"
-  resolved "https://registry.yarnpkg.com/@procore/core-icons/-/core-icons-8.18.3.tgz#b093cd8e0d551f49b2b1eb29df7e085f706a7dd7"
-  integrity sha512-6dVdUYBBRm/RXigDtPcFWNQIUalUSnazBdtzO52mW9GVeoBvx8VPr0/WwfD3ta1OFFO1qygonYGa8DLdUR2hbw==
+"@procore/core-icons@8.23.1":
+  version "8.23.1"
+  resolved "https://registry.yarnpkg.com/@procore/core-icons/-/core-icons-8.23.1.tgz#ce05eeccf0057b0005a651af1b691658528ae3fa"
+  integrity sha512-h99MLnw2nLijZ48R0N043JY+SBLCLVdwbFW5D6cmXI27rrxJyYJxnrOu/yJZByny9jJC0K6E8MBRWqQ1C7xCfg==
 
-"@procore/core-react@8.23.0":
-  version "8.23.0"
-  resolved "https://registry.yarnpkg.com/@procore/core-react/-/core-react-8.23.0.tgz#1464aaa34e9495019c0e6e250475f3db8ff1b544"
-  integrity sha512-/86hIpPZ7VECofgQc6RJVTnLJgs3xkRS4Zp/jE15TMpgbB9VbOCiThy9tZhCGJoZ/oZsMxfv7L6LflXHwrL2NA==
+"@procore/core-react@8.23.1":
+  version "8.23.1"
+  resolved "https://registry.yarnpkg.com/@procore/core-react/-/core-react-8.23.1.tgz#4ed8ab7ad177225de302b4d8b71fbda1fa5a2f87"
+  integrity sha512-fcKuqqd18rmiqC0H123ac0QwgT3CkMkmgNZiWdrzMlEAZgyN9HGCn39RdMJeIcw9KbPpNX390CsW4Pwts8JgZg==
   dependencies:
     "@formatjs/intl-getcanonicallocales" "1.2.7"
     "@formatjs/intl-numberformat" "4.2.9"
     "@formatjs/intl-pluralrules" "2.2.9"
     "@procore/core-css" "8.23.0"
     "@procore/core-i18n-js" "8.21.0"
-    "@procore/core-icons" "8.18.3"
+    "@procore/core-icons" "8.23.1"
     "@procore/event-journal" "0.4.2"
     "@tinymce/tinymce-react" "3.6.0"
     classnames "2.2.6"
