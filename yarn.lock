@@ -1325,10 +1325,10 @@
   resolved "https://registry.yarnpkg.com/@nodelib/fs.stat/-/fs.stat-1.1.3.tgz#2b5a3ab3f918cca48a8c754c08168e3f03eba61b"
   integrity sha512-shAmDyaQC4H92APFoIaVDHCx5bStIocgvbwQyxPRrbUY20V1EYTbSDchWbuwlMG3V17cprZhA6+78JfB+3DTPw==
 
-"@procore/core-css@8.24.0":
-  version "8.24.0"
-  resolved "https://registry.yarnpkg.com/@procore/core-css/-/core-css-8.24.0.tgz#5672c5f1d777827c043a83b7e9f074f2b7105cdd"
-  integrity sha512-RpcfMiAXYYQ+qSCH31ksfCjCTt0kOtWN3T61GmgmvWK1hHBhjQCytbRrgyyoen1/Te2g1J+J5lEQOE2WQDIkIQ==
+"@procore/core-css@8.25.0":
+  version "8.25.0"
+  resolved "https://registry.yarnpkg.com/@procore/core-css/-/core-css-8.25.0.tgz#97a40f9bc7082e874011833da993c87e42095c99"
+  integrity sha512-5phJ4Q9JIqKaMxxQ0zljackEXVf8DI6sSh3hGX1BVD8au07kPJJJB4T0r3+Uhn47k5E6xq9yvnjkOFC+ECKgAg==
   dependencies:
     flexboxgrid2 "7.2.1"
 
@@ -1342,15 +1342,15 @@
   resolved "https://registry.yarnpkg.com/@procore/core-icons/-/core-icons-8.24.0.tgz#66d8a75614c0de8e939e7fb222c784a3237434a1"
   integrity sha512-G76MdKgS5OjePWjfjj4pf5UdU8WEjbkaQqY/uCruWluNNL1ysqCo1NxQldcl8v3nlfH4wqE6d99/qU5JxctGHg==
 
-"@procore/core-react@8.24.0":
-  version "8.24.0"
-  resolved "https://registry.yarnpkg.com/@procore/core-react/-/core-react-8.24.0.tgz#fb6e8bebeef495a3f03f103879e9643ba7b1a41e"
-  integrity sha512-HsoLeXDrwS4TuPCciTCDzP0Bb7PEUDfHTQBRG2AptawG8rkG41QTZ65nyCVqtyjYdJQhmwIMxnOLXU7DgMQaPA==
+"@procore/core-react@8.25.0":
+  version "8.25.0"
+  resolved "https://registry.yarnpkg.com/@procore/core-react/-/core-react-8.25.0.tgz#a156b3d03786fb1d2de489acf6d2df74968ab4d7"
+  integrity sha512-QhyFGx+pxYL4otmyTp051oD5+b0tnW063+Os8Fpa8yOIfKIMTOOkMGHO1nwFPkd4X2LO0WmKLeRYIj0cJQlf8g==
   dependencies:
     "@formatjs/intl-getcanonicallocales" "1.4.5"
     "@formatjs/intl-numberformat" "4.2.9"
     "@formatjs/intl-pluralrules" "2.2.9"
-    "@procore/core-css" "8.24.0"
+    "@procore/core-css" "8.25.0"
     "@procore/core-i18n-js" "8.24.0"
     "@procore/core-icons" "8.24.0"
     "@procore/event-journal" "0.4.2"
