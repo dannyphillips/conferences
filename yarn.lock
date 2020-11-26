@@ -1502,10 +1502,10 @@
     schema-utils "^2.6.5"
     source-map "^0.7.3"
 
-"@procore/core-css@9.2.2":
-  version "9.2.2"
-  resolved "https://registry.yarnpkg.com/@procore/core-css/-/core-css-9.2.2.tgz#0dabbf071eb7760c39002236d5f55b4b41e93b87"
-  integrity sha512-9iHf3qi3NnbBSXMePm8qQ3ywAVd6dEpcEUIhBWT1HakjFVy1JsS0htQdQQdWYZPqxfEz0RBLnBfMSHya/aGDJQ==
+"@procore/core-css@9.4.0":
+  version "9.4.0"
+  resolved "https://registry.yarnpkg.com/@procore/core-css/-/core-css-9.4.0.tgz#9b4f62655fd59fd07081a19a4beafc6b0ad2c172"
+  integrity sha512-kmFGZGo1EiCRWTfEBqWDqXQQoKMyXB3N7u6glZrSa7aKT0OkX8ep3ItfAMx8yxIRtdWjoAM1mPS0m435LsPH6Q==
   dependencies:
     flexboxgrid2 "7.2.1"
 
@@ -1519,36 +1519,28 @@
   resolved "https://registry.yarnpkg.com/@procore/core-icons/-/core-icons-9.0.0.tgz#62445017b49e521e433f5be39ec35d8aa724f96e"
   integrity sha512-hxZuIwzDWMEz5hlcKIN41TBa6B4WqRZZBCeTxCugDnNcpDpStLneCv4LtouGD0Qpvqj4Uf4Iwcoe5d7u9jUzXw==
 
-"@procore/core-react@9.2.2":
-  version "9.2.2"
-  resolved "https://registry.yarnpkg.com/@procore/core-react/-/core-react-9.2.2.tgz#2af7a5389011cef9dafa9cfaa4c08e6e1093934b"
-  integrity sha512-KDLJwGDjvNS9yspCU75BuWJbihPx0n6nyFRMmKN/n3pHD0UvCOwe6xKlGRC3qI4JIPWaJgnSSt786sIwKOQ7hw==
+"@procore/core-react@9.4.0":
+  version "9.4.0"
+  resolved "https://registry.yarnpkg.com/@procore/core-react/-/core-react-9.4.0.tgz#f80eca9c8b5baf4cca690bcf0788d4d0fb51b508"
+  integrity sha512-JOfPcVSrXvQVIyTGzoRDUQplsJ9drr01RnHT09uSu2S9AsMndTZkzeppEumfNSuKaxIu9bC6MNMxqto6G3DoFA==
   dependencies:
-    "@procore/core-css" "9.2.2"
+    "@procore/core-css" "9.4.0"
     "@procore/core-i18n-js" "9.0.0"
     "@procore/core-icons" "9.0.0"
-    "@procore/event-journal" "0.4.2"
-    "@testing-library/jest-dom" "5.11.4"
-    "@tinymce/tinymce-react" "3.6.1"
-    axios "0.19.2"
+    "@testing-library/jest-dom" "5.11.5"
+    "@tinymce/tinymce-react" "3.8.1"
+    axios "0.21.0"
     classnames "2.2.6"
-    date-fns "2.10.0"
+    date-fns "2.16.1"
     intersection-observer "0.11.0"
     lodash.throttle "4.1.1"
     ramda "0.27.0"
     react-dropzone "11.0.2"
     react-flexbox-grid "2.1.2"
-    react-window "1.8.5"
+    react-window "1.8.6"
     react-window-infinite-loader "1.0.5"
     resize-observer-polyfill "1.5.1"
     ulid "2.3.0"
-
-"@procore/event-journal@0.4.2":
-  version "0.4.2"
-  resolved "https://registry.yarnpkg.com/@procore/event-journal/-/event-journal-0.4.2.tgz#b46e111138bdadaca153520fbfa3da2800426de5"
-  integrity sha512-6zY2yiwJbVFCbBEP8iDF1jGiw0V/SzOrSSMeFAwx6dKqCmbs4TyVM3t8M4uVGeb9gKWHBBy8SzG+pZkwYvdmiA==
-  dependencies:
-    ramda "^0.25.0"
 
 "@rollup/plugin-node-resolve@^7.1.1":
   version "7.1.3"
@@ -1703,10 +1695,10 @@
     "@svgr/plugin-svgo" "^5.4.0"
     loader-utils "^2.0.0"
 
-"@testing-library/jest-dom@5.11.4":
-  version "5.11.4"
-  resolved "https://registry.yarnpkg.com/@testing-library/jest-dom/-/jest-dom-5.11.4.tgz#f325c600db352afb92995c2576022b35621ddc99"
-  integrity sha512-6RRn3epuweBODDIv3dAlWjOEHQLpGJHB2i912VS3JQtsD22+ENInhdDNl4ZZQiViLlIfFinkSET/J736ytV9sw==
+"@testing-library/jest-dom@5.11.5":
+  version "5.11.5"
+  resolved "https://registry.yarnpkg.com/@testing-library/jest-dom/-/jest-dom-5.11.5.tgz#44010f37f4b1e15f9d433963b515db0b05182fc8"
+  integrity sha512-XI+ClHR864i6p2kRCEyhvpVejuer+ObVUF4cjCvRSF88eOMIfqw7RoS9+qoRhyigGswMfT64L6Nt0Ufotxbwtg==
   dependencies:
     "@babel/runtime" "^7.9.2"
     "@types/testing-library__jest-dom" "^5.9.1"
@@ -1717,12 +1709,13 @@
     lodash "^4.17.15"
     redent "^3.0.0"
 
-"@tinymce/tinymce-react@3.6.1":
-  version "3.6.1"
-  resolved "https://registry.yarnpkg.com/@tinymce/tinymce-react/-/tinymce-react-3.6.1.tgz#ed4f1047fbaa37018f687887be21b6b6ab4cdb54"
-  integrity sha512-MULQmc48/Wdsqpvoz7siPVXpMvQlClwXKVKDIoTVK61jqsmTtpf1RbO/gM3jhrf9Mh3zvgCWQPdupSJ9giCXtQ==
+"@tinymce/tinymce-react@3.8.1":
+  version "3.8.1"
+  resolved "https://registry.yarnpkg.com/@tinymce/tinymce-react/-/tinymce-react-3.8.1.tgz#7549bf8c06487b0b21b5b8c86c66c376dbbf5270"
+  integrity sha512-mLoA7CJoi4e0NqgNmCLLmK/gAvh9Tjd9WHWHtUJ6msBciLfc3c4Ma3UKlAvlRqNR8Q07ywTeRWvUjTn3zbqxIQ==
   dependencies:
     prop-types "^15.6.2"
+    tinymce "^5.5.0"
 
 "@types/anymatch@*":
   version "1.3.1"
@@ -2663,12 +2656,12 @@ axe-core@^3.5.4:
   resolved "https://registry.yarnpkg.com/axe-core/-/axe-core-3.5.5.tgz#84315073b53fa3c0c51676c588d59da09a192227"
   integrity sha512-5P0QZ6J5xGikH780pghEdbEKijCTrruK9KxtPZCFWUpef0f6GipO+xEZ5GKCb020mmqgbiNO6TcA55CriL784Q==
 
-axios@0.19.2:
-  version "0.19.2"
-  resolved "https://registry.yarnpkg.com/axios/-/axios-0.19.2.tgz#3ea36c5d8818d0d5f8a8a97a6d36b86cdc00cb27"
-  integrity sha512-fjgm5MvRHLhx+osE2xoekY70AhARk3a6hkN+3Io1jc00jtquGvxYlKlsFUhmUET0V5te6CcZI7lcv2Ym61mjHA==
+axios@0.21.0:
+  version "0.21.0"
+  resolved "https://registry.yarnpkg.com/axios/-/axios-0.21.0.tgz#26df088803a2350dff2c27f96fef99fe49442aca"
+  integrity sha512-fmkJBknJKoZwem3/IKSSLpkdNXZeBu5Q7GA/aRsr2btgrptmSCxi2oFjZHqGdK9DoTil9PIHlPIZw2EcRJXRvw==
   dependencies:
-    follow-redirects "1.5.10"
+    follow-redirects "^1.10.0"
 
 axobject-query@^2.1.2:
   version "2.2.0"
@@ -4105,22 +4098,15 @@ data-urls@^2.0.0:
     whatwg-mimetype "^2.3.0"
     whatwg-url "^8.0.0"
 
-date-fns@2.10.0:
-  version "2.10.0"
-  resolved "https://registry.yarnpkg.com/date-fns/-/date-fns-2.10.0.tgz#abd10604d8bafb0bcbd2ba2e9b0563b922ae4b6b"
-  integrity sha512-EhfEKevYGWhWlZbNeplfhIU/+N+x0iCIx7VzKlXma2EdQyznVlZhCptXUY+BegNpPW2kjdx15Rvq503YcXXrcA==
+date-fns@2.16.1:
+  version "2.16.1"
+  resolved "https://registry.yarnpkg.com/date-fns/-/date-fns-2.16.1.tgz#05775792c3f3331da812af253e1a935851d3834b"
+  integrity sha512-sAJVKx/FqrLYHAQeN7VpJrPhagZc9R4ImZIWYRFZaaohR3KzmuK88touwsSwSVT8Qcbd4zoDsnGfX4GFB4imyQ==
 
 debug@2.6.9, debug@^2.2.0, debug@^2.3.3, debug@^2.6.0, debug@^2.6.9:
   version "2.6.9"
   resolved "https://registry.yarnpkg.com/debug/-/debug-2.6.9.tgz#5d128515df134ff327e90a4c93f4e077a536341f"
   integrity sha512-bC7ElrdJaJnPbAP+1EotYvqZsb3ecl5wi6Bfi6BJTUcNowp6cvspg0jXznRTKDjm/E7AdgFBVeAPVMNcKGsHMA==
-  dependencies:
-    ms "2.0.0"
-
-debug@=3.1.0:
-  version "3.1.0"
-  resolved "https://registry.yarnpkg.com/debug/-/debug-3.1.0.tgz#5bb5a0672628b64149566ba16819e61518c67261"
-  integrity sha512-OX8XqP7/1a9cqkxYw2yXss15f26NKWBpDXQd0/uK/KPqdQhxbPa994hnzjcE2VqQpDslf55723cKPUOGSmMY3g==
   dependencies:
     ms "2.0.0"
 
@@ -5367,14 +5353,7 @@ flush-write-stream@^1.0.0:
     inherits "^2.0.3"
     readable-stream "^2.3.6"
 
-follow-redirects@1.5.10:
-  version "1.5.10"
-  resolved "https://registry.yarnpkg.com/follow-redirects/-/follow-redirects-1.5.10.tgz#7b7a9f9aea2fdff36786a94ff643ed07f4ff5e2a"
-  integrity sha512-0V5l4Cizzvqt5D44aTXbFZz+FtyXV1vrDN6qrelxtfYQKW0KO0W2T/hkE8xvGa/540LkZlkaUjO4ailYTFtHVQ==
-  dependencies:
-    debug "=3.1.0"
-
-follow-redirects@^1.0.0:
+follow-redirects@^1.0.0, follow-redirects@^1.10.0:
   version "1.13.0"
   resolved "https://registry.yarnpkg.com/follow-redirects/-/follow-redirects-1.13.0.tgz#b42e8d93a2a7eea5ed88633676d6597bc8e384db"
   integrity sha512-aq6gF1BEKje4a9i9+5jimNFIpq4Q1WiwBToeRK5NvZBd/TRsmW8BsJfOEGkr76TbOyPVD3OVDN910EcUNtRYEA==
@@ -9650,11 +9629,6 @@ ramda@0.27.0:
   resolved "https://registry.yarnpkg.com/ramda/-/ramda-0.27.0.tgz#915dc29865c0800bf3f69b8fd6c279898b59de43"
   integrity sha512-pVzZdDpWwWqEVVLshWUHjNwuVP7SfcmPraYuqocJp1yo2U1R7P+5QAfDhdItkuoGqIBnBYrtPp7rEPqDn9HlZA==
 
-ramda@^0.25.0:
-  version "0.25.0"
-  resolved "https://registry.yarnpkg.com/ramda/-/ramda-0.25.0.tgz#8fdf68231cffa90bc2f9460390a0cb74a29b29a9"
-  integrity sha512-GXpfrYVPwx3K7RQ6aYT8KPS8XViSXUVJT1ONhoKPE9VAleW42YE+U+8VEyGWt41EnEQW7gwecYJriTI0pKoecQ==
-
 randombytes@^2.0.0, randombytes@^2.0.1, randombytes@^2.0.5, randombytes@^2.1.0:
   version "2.1.0"
   resolved "https://registry.yarnpkg.com/randombytes/-/randombytes-2.1.0.tgz#df6f84372f0270dc65cdf6291349ab7a473d4f2a"
@@ -9866,10 +9840,10 @@ react-window-infinite-loader@1.0.5:
   resolved "https://registry.yarnpkg.com/react-window-infinite-loader/-/react-window-infinite-loader-1.0.5.tgz#6fe094d538a88978c2c9b623052bc50cb28c2abc"
   integrity sha512-IcPIq8lADK3zsAcqoLqQGyduicqR6jWkiK2VUX5sKSI9X/rou6OWlOEexnGyujdNTG7hSG8OVBFEhLSDs4qrxg==
 
-react-window@1.8.5:
-  version "1.8.5"
-  resolved "https://registry.yarnpkg.com/react-window/-/react-window-1.8.5.tgz#a56b39307e79979721021f5d06a67742ecca52d1"
-  integrity sha512-HeTwlNa37AFa8MDZFZOKcNEkuF2YflA0hpGPiTT9vR7OawEt+GZbfM6wqkBahD3D3pUjIabQYzsnY/BSJbgq6Q==
+react-window@1.8.6:
+  version "1.8.6"
+  resolved "https://registry.yarnpkg.com/react-window/-/react-window-1.8.6.tgz#d011950ac643a994118632665aad0c6382e2a112"
+  integrity sha512-8VwEEYyjz6DCnGBsd+MgkD0KJ2/OXFULyDtorIiTz+QzwoP94tBoA7CnbtyXMm+cCeAUER5KJcPtWl9cpKbOBg==
   dependencies:
     "@babel/runtime" "^7.0.0"
     memoize-one ">=3.1.1 <6"
@@ -11483,6 +11457,11 @@ timsort@^0.3.0:
   version "0.3.0"
   resolved "https://registry.yarnpkg.com/timsort/-/timsort-0.3.0.tgz#405411a8e7e6339fe64db9a234de11dc31e02bd4"
   integrity sha1-QFQRqOfmM5/mTbmiNN4R3DHgK9Q=
+
+tinymce@^5.5.0:
+  version "5.6.1"
+  resolved "https://registry.yarnpkg.com/tinymce/-/tinymce-5.6.1.tgz#82b31bed72135680ad5388968823988489a479e6"
+  integrity sha512-gLtuSk3VH5P36wYOxrkjKvLnPnuNRZ77t2fjTMz95ASnd5FsTBCLadnr8YKcWrBommFQoSzmVlTDyR7gXgR3nw==
 
 tinyqueue@^2.0.3:
   version "2.0.3"
