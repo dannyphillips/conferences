@@ -18,5 +18,8 @@ jobs:
         run: yarn install
       - name: Build
         run: yarn build
+      - name: Login
+        run: git config --global user.email "danny.phillips8@gmail.com"
+        run: git config --global user.name "Danny Phillips"
       - name: Deploy
         run: yarn deploy
