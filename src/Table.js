@@ -15,20 +15,18 @@ export class Table extends React.Component {
     const conferences = data[this.state.year]
     return (
       <div>
-        <SegmentedController>
-          <SegmentedController.Segment
-            onClick={() => this.setYear("2019")}
-            active={this.state.year === "2019"}
-          >
-            2019
-          </SegmentedController.Segment>
-          <SegmentedController.Segment
-            onClick={() => this.setYear("2020")}
-            active={this.state.year === "2020"}
-          >
-            2020
-          </SegmentedController.Segment>
-        </SegmentedController>
+        <button
+          onClick={() => this.setYear("2019")}
+          active={this.state.year === "2019"}
+        >
+          2019
+        </button>
+        <button
+          onClick={() => this.setYear("2020")}
+          active={this.state.year === "2020"}
+        >
+          2020
+        </button>
         <ReactTable
           data={conferences}
           columns={[
