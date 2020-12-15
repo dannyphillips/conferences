@@ -1,7 +1,6 @@
 import React from "react";
 import ReactTable from "react-table";
 import { SegmentedController } from '@procore/core-react'
-import "react-table/react-table.css";
 import data from './list.json'
 
 export class Table extends React.Component {
