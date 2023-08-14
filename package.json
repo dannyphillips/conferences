@@ -9,7 +9,7 @@
     "react-dom": "17.0.2",
     "react-map-gl": "6.1.21",
     "react-scripts": "4.0.3",
-    "react-table": "7.7.0",
+    "react-table": "7.8.0",
     "yarn": "^1.22.19"
   },
   "homepage": "http://dannyphillips.github.io/conferences",
